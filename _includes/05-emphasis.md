@@ -2,4 +2,6 @@
 
 **Team Oriented**
 
-_I am_**Flexible**_and_ **Goal oriented**
+_I am _**Flexible**_ and _ **Goal oriented**
+
+_I have programming skills in _ **C** and **Python**
