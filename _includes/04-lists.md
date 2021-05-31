@@ -1,3 +1,3 @@
-- [ ] Coding
-- [ ] Food
-- [ ] Music
+-  Coding
+-  Food
+-  Music
